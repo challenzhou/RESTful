@@ -1,12 +1,7 @@
-# RESTful
+# About RESTful
 webservice for FAB
-# About
-Spyne aims to save the protocol implementers the hassle of implementing their own remote procedure call api and the application programmers the hassle of jumping through hoops just to expose their services using multiple protocols and transports.
-
-You can download Spyne releases from Github or PyPi.
 
 # Requirements
-Spyne source distribution is a collection of highly decoupled components, which makes it a bit difficult to put a simple list of requirements, as literally everything except pytz is optional.
 
 # Python version
 First things first: Spyne is known to fully work on Python versions 3.3 and up. 
